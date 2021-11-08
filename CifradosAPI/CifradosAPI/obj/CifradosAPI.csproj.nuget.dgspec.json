@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\CifradosAPI\\CifradosAPI\\CifradosAPI.csproj": {}
+    "E:\\Documentos\\Github\\Lab4\\CifradosAPI\\CifradosAPI\\CifradosAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\CifradosAPI\\CifradosAPI\\CifradosAPI.csproj": {
+    "E:\\Documentos\\Github\\Lab4\\CifradosAPI\\CifradosAPI\\CifradosAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\CifradosAPI\\CifradosAPI\\CifradosAPI.csproj",
+        "projectUniqueName": "E:\\Documentos\\Github\\Lab4\\CifradosAPI\\CifradosAPI\\CifradosAPI.csproj",
         "projectName": "CifradosAPI",
-        "projectPath": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\CifradosAPI\\CifradosAPI\\CifradosAPI.csproj",
+        "projectPath": "E:\\Documentos\\Github\\Lab4\\CifradosAPI\\CifradosAPI\\CifradosAPI.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\CifradosAPI\\CifradosAPI\\obj\\",
+        "outputPath": "E:\\Documentos\\Github\\Lab4\\CifradosAPI\\CifradosAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\EncryptConsole\\EncryptConsole\\EncryptConsole.csproj": {
-                "projectPath": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\EncryptConsole\\EncryptConsole\\EncryptConsole.csproj"
+              "E:\\Documentos\\Github\\Lab4\\EncryptConsole\\EncryptConsole\\EncryptConsole.csproj": {
+                "projectPath": "E:\\Documentos\\Github\\Lab4\\EncryptConsole\\EncryptConsole\\EncryptConsole.csproj"
               },
-              "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\Encryptor\\Encryptor.csproj": {
-                "projectPath": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\Encryptor\\Encryptor.csproj"
+              "E:\\Documentos\\Github\\Lab4\\Encryptor\\Encryptor.csproj": {
+                "projectPath": "E:\\Documentos\\Github\\Lab4\\Encryptor\\Encryptor.csproj"
               }
             }
           }
@@ -83,16 +83,16 @@
         }
       }
     },
-    "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\EncryptConsole\\EncryptConsole\\EncryptConsole.csproj": {
+    "E:\\Documentos\\Github\\Lab4\\EncryptConsole\\EncryptConsole\\EncryptConsole.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\EncryptConsole\\EncryptConsole\\EncryptConsole.csproj",
+        "projectUniqueName": "E:\\Documentos\\Github\\Lab4\\EncryptConsole\\EncryptConsole\\EncryptConsole.csproj",
         "projectName": "EncryptConsole",
-        "projectPath": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\EncryptConsole\\EncryptConsole\\EncryptConsole.csproj",
+        "projectPath": "E:\\Documentos\\Github\\Lab4\\EncryptConsole\\EncryptConsole\\EncryptConsole.csproj",
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\Encryptor\\Encryptor.csproj": {
-                "projectPath": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\Encryptor\\Encryptor.csproj"
+              "E:\\Documentos\\Github\\Lab4\\Encryptor\\Encryptor.csproj": {
+                "projectPath": "E:\\Documentos\\Github\\Lab4\\Encryptor\\Encryptor.csproj"
               }
             }
           }
@@ -102,11 +102,11 @@
         "net461": {}
       }
     },
-    "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\Encryptor\\Encryptor.csproj": {
+    "E:\\Documentos\\Github\\Lab4\\Encryptor\\Encryptor.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\Encryptor\\Encryptor.csproj",
+        "projectUniqueName": "E:\\Documentos\\Github\\Lab4\\Encryptor\\Encryptor.csproj",
         "projectName": "Encryptor",
-        "projectPath": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\Encryptor\\Encryptor.csproj"
+        "projectPath": "E:\\Documentos\\Github\\Lab4\\Encryptor\\Encryptor.csproj"
       },
       "frameworks": {
         "net461": {}

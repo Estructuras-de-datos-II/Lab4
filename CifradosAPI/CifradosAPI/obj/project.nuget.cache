@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p0605JILtPuG6nppERKqymQwb0J4OY4S6q837z9IdWEv5ZozLyzw1o+YMyDXjb2+KRK9Dpw8s7FzM28VhHklJg==",
+  "dgSpecHash": "454/SWj6SX9HSTSilhw4FGFGrKWuJf8F3HmwdJt8IO7s8sYKARuyqRP1fWLvjQjZ9/oSohMg379fokVaHJKN0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\lab 4\\Lab4\\CifradosAPI\\CifradosAPI\\CifradosAPI.csproj",
+  "projectFilePath": "E:\\Documentos\\Github\\Lab4\\CifradosAPI\\CifradosAPI\\CifradosAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
