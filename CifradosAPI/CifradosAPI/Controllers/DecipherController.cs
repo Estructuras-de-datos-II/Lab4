@@ -46,6 +46,9 @@ namespace Cifrados.Controllers
                         file.CopyToAsync(archivotexto);
                         bufferfinal = descifrador.decrypt(archivotexto.ToArray(), llave);
                         generarArchivo_txt(bufferfinal, nombrearchivofinal, ".txt");
+                        FileContentResult fileToReturn = File(bufferfinal, "text/plane");
+                        fileToReturn.FileDownloadName = nombrearchivofinal + ".txt";
+                        return fileToReturn;
                     }
                     catch (Exception)
                     {
@@ -66,6 +69,9 @@ namespace Cifrados.Controllers
                         file.CopyToAsync(archivotexto);
                         bufferfinal = descifrador.decrypt(archivotexto.ToArray(), bytellave);
                         generarArchivo_txt(bufferfinal, nombrearchivofinal, ".txt");
+                        FileContentResult fileToReturn = File(bufferfinal, "text/plane");
+                        fileToReturn.FileDownloadName = nombrearchivofinal + ".txt";
+                        return fileToReturn;
                     }
                     catch (Exception)
                     {
@@ -85,6 +91,9 @@ namespace Cifrados.Controllers
                         file.CopyToAsync(archivotexto);
                         bufferfinal = descifrador.decrypt(archivotexto.ToArray(), llave);
                         generarArchivo_txt(bufferfinal, nombrearchivofinal, ".txt");
+                        FileContentResult fileToReturn = File(bufferfinal, "text/plane");
+                        fileToReturn.FileDownloadName = nombrearchivofinal + ".txt";
+                        return fileToReturn;
                     }
                     catch (Exception e)
                     {

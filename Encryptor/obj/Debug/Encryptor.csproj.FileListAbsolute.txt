@@ -22,9 +22,3 @@ D:\FBHomework\Cliente-C#\Lab4\Lab4\Encryptor\obj\Debug\Encryptor.csprojAssemblyR
 D:\FBHomework\Cliente-C#\Lab4\Lab4\Encryptor\obj\Debug\Encryptor.csproj.CoreCompileInputs.cache
 D:\FBHomework\Cliente-C#\Lab4\Lab4\Encryptor\obj\Debug\Encryptor.dll
 D:\FBHomework\Cliente-C#\Lab4\Lab4\Encryptor\obj\Debug\Encryptor.pdb
-C:\Users\marti\Downloads\labcesar\Lab4\Encryptor\bin\Debug\Encryptor.dll
-C:\Users\marti\Downloads\labcesar\Lab4\Encryptor\bin\Debug\Encryptor.pdb
-C:\Users\marti\Downloads\labcesar\Lab4\Encryptor\obj\Debug\Encryptor.csproj.AssemblyReference.cache
-C:\Users\marti\Downloads\labcesar\Lab4\Encryptor\obj\Debug\Encryptor.csproj.CoreCompileInputs.cache
-C:\Users\marti\Downloads\labcesar\Lab4\Encryptor\obj\Debug\Encryptor.dll
-C:\Users\marti\Downloads\labcesar\Lab4\Encryptor\obj\Debug\Encryptor.pdb

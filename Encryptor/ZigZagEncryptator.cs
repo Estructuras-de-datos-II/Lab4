@@ -8,20 +8,38 @@ namespace Encryptor
 {
     public class ZigZagEncryptator : Encryptator
     {
+
         public byte[] decrypt(byte[] dataToDencrypt, int key)
         {
-            int rest = dataToDencrypt.Length % 2;
             byte[] decryptedData = new byte[dataToDencrypt.Length];
-            for(int i = 0; i < (dataToDencrypt.Length / 2 + rest); i++)
+            double colD = dataToDencrypt.Length / key;
+            int col = (int)Math.Ceiling(colD);
+            int pos = 0;
+            for (int i = 0; i < key; i++)
             {
-                decryptedData[i * 2] = dataToDencrypt[i];
+                for (int j = 0; j < col * 2;)
+                {
+
+                    int relativePos = j * (key - 1) + i;
+                    if (relativePos < dataToDencrypt.Length)
+                    {
+                        decryptedData[relativePos] = dataToDencrypt[pos];
+                        pos++;
+                    }
+
+                    j += 2;
+                    if (!(i == 0 || i == key - 1))
+                    {
+                        relativePos = (key - 1) * j - i;
+                        if (relativePos < dataToDencrypt.Length)
+                        {
+                            decryptedData[relativePos] = dataToDencrypt[pos];
+                            pos++;
+                        }
+                    }
+                }
             }
-            int j = 0;
-            for (int i = (dataToDencrypt.Length) / 2 + rest; i < dataToDencrypt.Length; i++)
-            {
-                decryptedData[j * 2 + 1] = dataToDencrypt[i];
-                j++;
-            }
+
             return decryptedData;
         }
 
@@ -32,44 +50,34 @@ namespace Encryptor
 
         public byte[] encrypt(byte[] dataToEncrypt, int key)
         {
-            byte[] leftData;
-            if (dataToEncrypt.Length % 2 == 1)
+            double colD = dataToEncrypt.Length / key;
+            int col = (int)Math.Ceiling(colD);
+            byte[] encryptedData = new byte[dataToEncrypt.Length];
+            int pos = 0;
+            for (int i = 0; i < key; i++)
             {
-                leftData = new byte[(dataToEncrypt.Length / 2 + 1)];
-            }
-            else
-            {
-                leftData = new byte[(dataToEncrypt.Length / 2)];
-            }
-            byte[] rightData = new byte[(dataToEncrypt.Length / 2)];
+                for (int j = 0; j < col * 2;)
+                {
 
-            int i = 0;
-            foreach (byte b in dataToEncrypt)
-            {
-
-                    if(i % 2 == 0)
+                    int relativePos = j * (key - 1) + i;
+                    if (relativePos < dataToEncrypt.Length)
                     {
-                        leftData[i / 2] = b;
+                        encryptedData[pos] = dataToEncrypt[relativePos];
+                        pos++;
                     }
-                    else
-                    {
-                        rightData[i / 2] = b;
-                    }
-                    i++;
-            }
-            byte[] encryptedData = new byte[leftData.Length + rightData.Length];
-            leftData.CopyTo(encryptedData, 0);
-            //Console.WriteLine(encryptedData.Length);
-            //Console.WriteLine(leftData.Length + rightData.Length);
-            rightData.CopyTo(encryptedData, leftData.Length);
 
-            var sb = new StringBuilder("new byte[] { ");
-            foreach (var b in rightData)
-            {
-                sb.Append(b + ", ");
+                    j += 2;
+                    if (!(i == 0 || i == key - 1))
+                    {
+                        relativePos = (key - 1) * j - i;
+                        if (relativePos < dataToEncrypt.Length)
+                        {
+                            encryptedData[pos] = dataToEncrypt[relativePos];
+                            pos++;
+                        }
+                    }
+                }
             }
-            sb.Append("}");
-            //Console.WriteLine(sb.ToString());
 
             return encryptedData;
         }

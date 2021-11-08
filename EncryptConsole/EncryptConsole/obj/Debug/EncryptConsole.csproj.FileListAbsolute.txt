@@ -18,13 +18,3 @@ D:\FBHomework\Cliente-C#\Lab4\Lab4\EncryptConsole\EncryptConsole\obj\Debug\Encry
 D:\FBHomework\Cliente-C#\Lab4\Lab4\EncryptConsole\EncryptConsole\obj\Debug\EncryptConsole.csproj.CopyComplete
 D:\FBHomework\Cliente-C#\Lab4\Lab4\EncryptConsole\EncryptConsole\obj\Debug\EncryptConsole.exe
 D:\FBHomework\Cliente-C#\Lab4\Lab4\EncryptConsole\EncryptConsole\obj\Debug\EncryptConsole.pdb
-C:\Users\marti\Downloads\labcesar\Lab4\EncryptConsole\EncryptConsole\bin\Debug\EncryptConsole.exe.config
-C:\Users\marti\Downloads\labcesar\Lab4\EncryptConsole\EncryptConsole\bin\Debug\EncryptConsole.exe
-C:\Users\marti\Downloads\labcesar\Lab4\EncryptConsole\EncryptConsole\bin\Debug\EncryptConsole.pdb
-C:\Users\marti\Downloads\labcesar\Lab4\EncryptConsole\EncryptConsole\bin\Debug\Encryptor.dll
-C:\Users\marti\Downloads\labcesar\Lab4\EncryptConsole\EncryptConsole\bin\Debug\Encryptor.pdb
-C:\Users\marti\Downloads\labcesar\Lab4\EncryptConsole\EncryptConsole\obj\Debug\EncryptConsole.csproj.AssemblyReference.cache
-C:\Users\marti\Downloads\labcesar\Lab4\EncryptConsole\EncryptConsole\obj\Debug\EncryptConsole.csproj.CoreCompileInputs.cache
-C:\Users\marti\Downloads\labcesar\Lab4\EncryptConsole\EncryptConsole\obj\Debug\EncryptConsole.csproj.CopyComplete
-C:\Users\marti\Downloads\labcesar\Lab4\EncryptConsole\EncryptConsole\obj\Debug\EncryptConsole.exe
-C:\Users\marti\Downloads\labcesar\Lab4\EncryptConsole\EncryptConsole\obj\Debug\EncryptConsole.pdb

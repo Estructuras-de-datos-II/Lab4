@@ -52,14 +52,17 @@ namespace Cifrados.Controllers
                         file.CopyToAsync(archivotexto);
                         bufferfinal = cifrar.encrypt(archivotexto.ToArray(), llave);
                         generarArchivo_txt(bufferfinal, nombrearchivofinal, ".zz");
+                        FileContentResult fileToReturn = File(bufferfinal, "text/plane");
+                        fileToReturn.FileDownloadName = nombrearchivofinal + ".zz";
+                        return fileToReturn;
                     }
                     catch (Exception)
                     {
                         return StatusCode(500);
                     }
-                return Ok();
             }
         }
+
         [HttpPost]
         [Route("ruta")]
         public IActionResult PostRuta([FromForm] IFormFile[] files, [FromRoute] string nombre, [FromForm] string key)
@@ -97,13 +100,15 @@ namespace Cifrados.Controllers
                         file.CopyToAsync(archivotexto);
                         bufferfinal = cifrar.encrypt(archivotexto.ToArray(), llave);
                         generarArchivo_txt(bufferfinal, nombrearchivofinal, ".rt");
+                        FileContentResult fileToReturn = File(bufferfinal, "text/plane");
+                        fileToReturn.FileDownloadName = nombrearchivofinal + ".rt";
+                        return fileToReturn;
                     }
                     catch (Exception e)
                     {
                         Console.WriteLine(e  + "\n\n");
                         return StatusCode(500);
                     }
-                return Ok();
             }
         }
 
@@ -139,12 +144,14 @@ namespace Cifrados.Controllers
                         file.CopyToAsync(archivotexto);
                         bufferfinal = cifrarcesar.encrypt(archivotexto.ToArray(), bytellave);
                         generarArchivo_txt(bufferfinal, nombrearchivofinal, ".csr");
+                        FileContentResult fileToReturn = File(bufferfinal, "text/plane");
+                        fileToReturn.FileDownloadName = nombrearchivofinal + ".csr";
+                        return fileToReturn;
                     }
                     catch (Exception)
                     {
                         return StatusCode(500);
                     }
-                return Ok();
             }
         }
 
