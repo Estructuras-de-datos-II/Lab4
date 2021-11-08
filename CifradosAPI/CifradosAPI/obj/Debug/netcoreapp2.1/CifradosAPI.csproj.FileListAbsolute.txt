@@ -1,0 +1,44 @@
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\CifradosAPI.deps.json
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\CifradosAPI.runtimeconfig.json
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\CifradosAPI.runtimeconfig.dev.json
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\CifradosAPI.dll
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\CifradosAPI.pdb
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\EncryptConsole.exe
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\Encryptor.dll
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\EncryptConsole.pdb
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\EncryptConsole.exe.config
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\Encryptor.pdb
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.csprojAssemblyReference.cache
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.csproj.CoreCompileInputs.cache
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.RazorAssemblyInfo.cache
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.RazorAssemblyInfo.cs
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.AssemblyInfoInputs.cache
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.AssemblyInfo.cs
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.RazorTargetAssemblyInfo.cache
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.csproj.CopyComplete
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.dll
+D:\FBHomework\Cliente-C#\Lab4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.pdb
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\CifradosAPI.deps.json
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\CifradosAPI.runtimeconfig.json
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\CifradosAPI.runtimeconfig.dev.json
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\CifradosAPI.dll
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\CifradosAPI.pdb
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\EncryptConsole.exe
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\Encryptor.dll
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\EncryptConsole.pdb
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\EncryptConsole.exe.config
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\bin\Debug\netcoreapp2.1\Encryptor.pdb
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.AssemblyInfo.cs
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.RazorAssemblyInfo.cache
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.RazorAssemblyInfo.cs
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.csproj.CopyComplete
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.dll
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.pdb
+C:\Users\marti\Desktop\lab 4\Lab4\CifradosAPI\CifradosAPI\obj\Debug\netcoreapp2.1\CifradosAPI.genruntimeconfig.cache
